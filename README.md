@@ -1,1 +1,1 @@
-# event repositoryについqて
+# event repositoryについて
